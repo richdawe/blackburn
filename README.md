@@ -41,7 +41,7 @@ Blackburn is a clear and responsive theme for [Hugo](//gohugo.io).
 
 ## Demo
 
-* [Demo](http://themes.gohugo.io/theme/blackburn/)
+* [Demo](http://themes.gohugo.io/themes/blackburn/)
 * You can also see it in action on my personal website [here](http://yoshiharuyamashita.com/)
 
 ## Screenshots
@@ -171,6 +171,17 @@ paginate = 10
 
   # Other
   keybase = "*"
+```
+
+
+## [Add hugo contact form](https://fabform.io/a/hugo-contact-form)
+ 
+  ```
+ <form action="https://fabform.io/f/{form-id}" method="post">
+  <label for="email">Your Email</label>
+  <input name="email" type="email">
+  <button type="submit">Submit</button> 
+ </form>
 ```
 
 ## Usage
